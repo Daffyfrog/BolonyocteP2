@@ -1,0 +1,55 @@
+{
+
+		"codeZoneDeVie": 1004,
+		"nomZoneDeVie": "Ambérieu-En-Bugey",
+		"potentielConsommation": 150719883,
+		"potentielConcurrentiel":  "Monopole (CARREFOUR)",
+		"communes": [
+			{
+				"codeCommune": 1002,
+				"nomCommune": "L'Abergement-de-Varey",
+				"enseignes": []
+			},
+			{
+				"codeCommune": 1004,
+				"nomCommune": "Ambérieu-en-Bugey",
+				"enseignes": [
+					{
+						"codePointDeVente": 12592,
+						"nomEnseigne": "NETTO",
+						"typeGSA": "X",
+						"latitude": 45.962940,
+						"longitude": 5.3435213 
+					},
+					{
+						"codePointDeVente": 150577,
+						"nomEnseigne": "DIA %",
+						"typeGSA": "X",
+						"latitude": 45.977755,
+						"longitude": 5.350052 
+					}
+				]
+			},
+			{
+				"codeCommune": 1007,
+				"nomCommune": "Ambronay",
+				"enseignes": []
+			}
+		],
+		"stats": {
+			"ALDI": 0.8,
+			"AUCHAN": 0.0,
+			"AUTRES": 0.0,
+			"CARREFOUR": 48.3,
+			"CASINO": 2.2,
+			"CODIFRANCE": 0.3,
+			"DELHAIZE": 0.0,
+			"DIAPAR": 0.0,
+			"INTERMARCHER": 29.9,
+			"LECLERC": 0.0,
+			"LIDL": 9.9,
+			"SCHIEVER": 0.0,
+			"SYSTEMU": 11.8
+		}
+
+}

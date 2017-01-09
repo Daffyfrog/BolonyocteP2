@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bc156efaaee99f1ef6bf471347373a4cbb28e2a1">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.0.2_c6f3f2f69e23748bb6555cde47830f84e82c0755/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0e8261cd0154d9495136e3fd55ca32e8c8f53dce">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6d4838cbadae20a9ad326458e44ad1c9d6eeded4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.2_d074fa23efc1cf55a2ca9cc44f9eeaac3568a8f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_64ca1680ed7d09ef6abf07b3d9a0b1436b31e232/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a92d9a35d9f285fd4d7ad27c36381d8ccf66d761">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1d5ba15d038ae111958ef468781eb5c8d95cbea0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8c0fc9b1ea0bac0cb31d60c8b1bf2feb0518e3a9">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.0.2_f1abf6f3cd48e97d9efa797f0bf4908f462d140e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.0.1/481d14ec21e034ed45217c4854dbbf15940ce108/jackson-core-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="481d14ec21e034ed45217c4854dbbf15940ce108">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.0.1_6b98cd20df4786dceaccf5f757a657f58634b5eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="143813b18381b28de1e04aae1d92fcb374a0add9">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.0.2_b3421b007b9537995be0ac75d1fb46ac9d4439c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.2_211b1c1d2a2f35789fd266971fa24c81a2caa1ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4ec890171a97b5ab98292f131aa784e0f3792c73">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.0.2_dd1cbb7ce54ad3c6f506c3ba325c5e6546976bbb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.github.delight-im/Android-SimpleLocation/v1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f10c2243bdf2d68bd85d090cc88bb273dd4ce0a9">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.delight-im-Android-SimpleLocation-v1.0.1_e9d438562e753b52afb299d97e269dcf45130807/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.0_1549c38aa999c74de0609eb62c8b0261716cd82f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cf16220db9128d91a215aedc739584181d5ca6a4">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.0.2_8f26e943ba1a8cfa83fa28d000210343c977e73d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_819d7ece72ac242b49c7686b320b5f10ad0366b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_d8b724bc00d9fcef79498ccb03950152739dac98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9819419ce8d79f3f81a0fc70f9345ac8c843af9c">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.0.2_9c765bb9659fe4d57a69e2c50184baa12a98afba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e52b440a26498c56b4f263e215223b5451c955e">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.0.2_432a0bdf67e22149ca3842015d9b411a76f73e89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_cf5bcc0d9a97eb4a06eec5efbb41446a9dbb7354/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.0.2_40ef6e3dae27e15571701c79dccf6f8c0f3fb5c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.0.1/1d160beb3f8924d5b98d03d94a149021146f71cc/jackson-databind-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1d160beb3f8924d5b98d03d94a149021146f71cc">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-databind-2.0.1_82c0d7a0d1ba2673c69e2131c8e3f0f4b0f8cea9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9e9ccadb85bb9a4060bbc67103b2b06723c95326">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6d4838cbadae20a9ad326458e44ad1c9d6eeded4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0c835e9f3875cf245877c9b17d1c69bc98f16057">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.0.2_56d685b83087f482ea91f22c1ec0cb90ed4269bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.0.2_9d4b62497b702fd459c035a2984cafd0793d18ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6c58c14d15602fea2c50138c73bb107e8b832b62">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.0.2_23d3a494176701d280e4eba04c403b9c65a9df9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="79e298d7fed2fcada58da7032d07d34ee198a545">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.0.2_d0689ccf0c5e0e8a7854f3b92cd503ce5aa0dc49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="604ecf403feb0084dc6d0c12f1677a490cf45e4c">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.0.2_9b9c3153c0c3dc2c3b97555a951ec63ce36bbbbe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.0.1/36e5996abe8655a6471b82af5ac1cd6786aecf85/jackson-annotations-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="36e5996abe8655a6471b82af5ac1cd6786aecf85">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-annotations-2.0.1_e1a3780d98787420ed171ef918698205f69f2338/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.github.arimorty/floatingsearchview/2.0.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="31c1fe8583cbb7f6a9f11bb7010a747e79712335">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.arimorty-floatingsearchview-2.0.3_e66f9b6deeef1d19d7285bcc3af47e8999d6cb81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="922c24fbfc4247947fcfaf2b95f295a16a8c3d17">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.0.2_745d00b4d14fdfdccf0bfeb078427a4b076a9837/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2ab5be19bbd34bae74662ea6b2d4451314d92d97">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.0.2_dfbdc89b8956c28dd0c1b06c39ba41f537975cde/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fa472b7cbd3897bf6bed6068ac0b00e494987688">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.0.2_7874ade797a1df56a9472d61b3153aa4ccd486ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.0.1/36e5996abe8655a6471b82af5ac1cd6786aecf85/jackson-annotations-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="36e5996abe8655a6471b82af5ac1cd6786aecf85">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-annotations-2.0.1_e1a3780d98787420ed171ef918698205f69f2338/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e11da70cff6a544a45cdc21f419802d9bb9043ac">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.0.2_83c7e1e55ea451d9cf8a25e40bcb9761c8e003cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.bartoszlipinski/viewpropertyobjectanimator/1.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1828dd75d357690efb2c5f4326804e2f7ad21f6c">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.bartoszlipinski-viewpropertyobjectanimator-1.2.0_1b692191b02b02e5b0083a45d26286761ffe258b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_4d74f3a42aa77b2fc22b3ca53f2e90662f7587df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="829c6e46cb221c2102801221c648b77113743e81">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.0.2_d327f43f50d2bd691ad791fd656d81f4192bed2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b6af089f583d547bcffc0689b2e80bc7aaa54b15">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.0.2_9a108b66da6bb4622a90372afdf88516f21fc46f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.3.0_566364c680d6ad30d3997c8f56dd142773eab4b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_69253729ea2d16bb61d65af158b933e987a4f24d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e6970f0554f9508c041f1f6960af15cc888c9f35">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.0.2_ef8e5e46f402baee50df748fcf5a60ea3e2f9491/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.0.1/1d160beb3f8924d5b98d03d94a149021146f71cc/jackson-databind-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1d160beb3f8924d5b98d03d94a149021146f71cc">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-databind-2.0.1_82c0d7a0d1ba2673c69e2131c8e3f0f4b0f8cea9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7fb2f9041d8ce3ef09e96845d9a25194c44ff7b7">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1d5ba15d038ae111958ef468781eb5c8d95cbea0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cd4c7c54e15d9ccbc448384fa2c4684d69ca73f0">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.0.2_1d3414d5a3918a6da3773f86ea56cd51e2934a66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.0.2_dde8e7afb1ec2270bfbb794d39f9d799b87413f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f2774b1e02e5fbc524590311a744263c3b152d63">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.0.2_d70c96a90878bb19b8c3c67cb8d9290462e040d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_752e3cdf2fedc00c6a683d8a0805695b26b6ff40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c96952c162c9f6076f44c5939982cb35491442ea">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.0.2_4f23668a4633b2445125fffc3607eef1696679d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.2_8161d73dc05959edf4836303c55c63a87cca9ca0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="764d32faf85bc6f7bd2cdcb3a70a482c1884fdd2">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.0.2_ba1b08397d013e1bfbcbe3d3c5cd8fb7018a1704/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.0_9578f3b7c87394f1385ce2d35d3c8ddf549a13f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_44661f8034eeeb0c654917fb2ed7744211c4fb87/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_a6531ec0100716ac9e343985f613be866c19de79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d900f2a1ff098cac8befe6c023d723e9afb154be">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.0.2_4bcd701b0d4e6a72c2808ca7f004b98f4ee1ab23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="53f10fcd322a3931495d6ca2078a81f4957cdbce">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.0.2_17e8011f671db953e9d1c5aa7f21e5ace00b9344/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.0.2_46188ea97953d248c8d94f77889119d8d985b6ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d9ea4cdaafa29ec4651d6e4715788d3fcaa7b913">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.0.2_6377fac789feb26799b05930767099b894a724ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a498fab72f8663c26fbf3d4496eb6b673b17bcae">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.0.2_8087db3b597747373bec8eb79ad264f6452bd3c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b8e0372ca6dc89ac4fe22b76eeea4f68ece435b8">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.0.2_178dfff3e630d618f0b44c71d8c8a23a27408e3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.2_663acd958f923d230e42b070379f820f80788a14/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_c21c7a5129d7c69c88252a42f26ce0b531f31aa7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_ee33327144b72b7c9fc7622bb64a4c6682de1599/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_9402bbdc907cd2599b7951ebd6e5a73f709b2f42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f4fb6981392ca7680d02fd57d26d6124c141d9d9">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.0.2_35fa9ba2e8f6a6f9f7ca75cb1cc8444df75c5759/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f399a2fde7888450cadcaec4974bfd169d8cce43">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.0.2_8bd9ffec4d653a8d7a13050e2991510235a05cfe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="060a7157438a0b1b0706b99c430fb3ecbc5a79a4">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.0.2_61b6ccb1e19f166f2ce5bfee3351854aab7c83e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.0_d95a863f7d84f6b15f3f9617fc44c7b979f5b859/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a45bc1ed812137b21dddd1cedaa3712b308f0b3f">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.0.2_b6c0540c780d736e9acbf2d47e9ae2126764f111/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.0.2_37cfa6389f8fc77ff6bee68e118ce2a2ff1f3c4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6ff48ef26bc539c78af4aa061cb9bad6abcbf5e8">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.0.2_1827d76f715fe4eece2ce4d80ca22fdc8d397c7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fe5b47e764869f1076cb9cfe12801ed2ef4e9117">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.0.2_8d948be059602ce9dc980681b09e67b45f88aaad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.0.1/481d14ec21e034ed45217c4854dbbf15940ce108/jackson-core-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="481d14ec21e034ed45217c4854dbbf15940ce108">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.0.1_6b98cd20df4786dceaccf5f757a657f58634b5eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="568d5bda0b4d51f90d978ace369bb9ad024d2057">
+        <dex dex="/Users/iem/Documents/workspace/Bolonyocte/BolonyocteProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.0.2_f54e0870659dcd83b4fde57b969be61f258ac82a/classes.dex" />
+    </item>
+
+</items>
